@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Voloshyna_DZ44_5" 
+             x:Class="Voloshyna_DZ44_5.MainPage">
+
+    <StackLayout>
+        <!-- Input fields for product information -->
+        <Entry x:Name="ProductNameEntry" Placeholder="Product Name" />
+        <Entry x:Name="ProductPriceEntry" Placeholder="Product Price" />
+        <Entry x:Name="ProductDescriptionEntry" Placeholder="Product Description" />
+
+        <Grid x:Name="ProductGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto" />
+
+            </Grid.ColumnDefinitions>
+
+            <!-- Column headers -->
+            <Label Text="Name" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+            <Label Text="Price" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+            <Label Text="Description" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+
+            <!-- ListView to display products -->
+            <ListView x:Name="ProductListView" Grid.Row="1" Grid.ColumnSpan="3">
+                <!-- Define item template for product display (same as before) -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <!-- Added a column for the Delete button -->
+                                </Grid.ColumnDefinitions>
+                                <Label Text="{Binding Name}" FontAttributes="Bold" Grid.Column="0" />
+                                <Label Text="{Binding Price}" Grid.Column="1" />
+                                <Label Text="{Binding Description}" Grid.Column="2" />
+                                <Button Text="Delete" Clicked="DeleteProduct_Clicked" Grid.Column="3" CommandParameter="{Binding .}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+
+        <!-- Move the "Add Product" button to the bottom -->
+        <Button Text="Add Product" Clicked="AddProduct_Clicked" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" />
+    </StackLayout>
+</ContentPage>

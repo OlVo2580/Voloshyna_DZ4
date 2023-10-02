@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DZ4_5"
+             x:Class="DZ4_5.GoodsPage">
+
+    <StackLayout>
+        <Label Text="Enter Goods Details" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" Margin="0,20,0,10" />
+        <Entry x:Name="ExpirationDateEntry" Placeholder="Expiration Date" />
+        <Entry x:Name="QuantityEntry" Placeholder="Quantity" />
+        <Entry x:Name="UnitOfMeasureEntry" Placeholder="Unit of Measure" />
+        <Button Text="Save" Clicked="SaveButton_Clicked" />
+
+        <Label Text="Goods Information" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" Margin="0,20,0,10" />
+
+        
+        <Grid x:Name="GoodsInfoGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+        
+        <ListView x:Name="ProductListView" ItemsSource="{Binding products}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding Name}" FontAttributes="Bold" Grid.Column="0" />
+                            <Label Text="{Binding Price}" Grid.Column="1" />
+                            <Label Text="{Binding Description}" Grid.Column="2" />
+                            <Button Text="Delete" Clicked="DeleteProduct_Clicked" Grid.Column="3" CommandParameter="{Binding .}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        </Grid>
+
+    </StackLayout>
+</ContentPage>

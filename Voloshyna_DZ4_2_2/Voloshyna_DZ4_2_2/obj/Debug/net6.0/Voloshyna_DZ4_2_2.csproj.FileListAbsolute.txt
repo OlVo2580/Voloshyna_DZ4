@@ -1,0 +1,15 @@
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\bin\Debug\net6.0\Voloshyna_DZ4_2_2.exe
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\bin\Debug\net6.0\Voloshyna_DZ4_2_2.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\bin\Debug\net6.0\Voloshyna_DZ4_2_2.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\bin\Debug\net6.0\Voloshyna_DZ4_2_2.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\bin\Debug\net6.0\Voloshyna_DZ4_2_2.pdb
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.csproj.AssemblyReference.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\refint\Voloshyna_DZ4_2_2.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.pdb
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\Voloshyna_DZ4_2_2.genruntimeconfig.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_2_2\Voloshyna_DZ4_2_2\obj\Debug\net6.0\ref\Voloshyna_DZ4_2_2.dll

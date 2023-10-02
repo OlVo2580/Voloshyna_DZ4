@@ -1,0 +1,15 @@
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.csproj.AssemblyReference.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\bin\Debug\net6.0\Voloshyna_DZ4_4.exe
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\bin\Debug\net6.0\Voloshyna_DZ4_4.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\bin\Debug\net6.0\Voloshyna_DZ4_4.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\bin\Debug\net6.0\Voloshyna_DZ4_4.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\bin\Debug\net6.0\Voloshyna_DZ4_4.pdb
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\refint\Voloshyna_DZ4_4.dll
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.pdb
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\Voloshyna_DZ4_4.genruntimeconfig.cache
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\Voloshyna_DZ4_4\Voloshyna_DZ4_4\obj\Debug\net6.0\ref\Voloshyna_DZ4_4.dll
